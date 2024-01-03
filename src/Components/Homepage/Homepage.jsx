@@ -1,7 +1,7 @@
 const Homepage = () => {
   return (
     <>
-      <div className="flex flex-col item-center justify-center w-full">
+      <div className="flex item-center justify-center w-full">
         <div className="justify-left ml-auto mr-auto">
           <div className="mt-40 p-20">
             <h1 className="font-dmSans text-88 font-medium leading-97 tracking-wide text-left">
@@ -53,6 +53,9 @@ const Homepage = () => {
               className="inline"
             />
           </div>
+        </div>
+        <div>
+          <img src="./images/cards.png" alt="Tesla Bank" className="inline" />
         </div>
       </div>
     </>
