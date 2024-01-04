@@ -33,7 +33,7 @@ const Advantages = () => {
               img="./images/clock.png"
               alt="Relógio"
               title="Atendimento 24h"
-              description="No TeslaBank, os usuários têm acesso a um atendimento ao cliente sempre disponível, 24 horas por dia, 7 dias por semana. "
+              description="No TeslaBank, os usuários têm acesso a um atendimento ao cliente sempre disponível, 24 horas por dia, 7 dias por semana."
               option="Veja as opções"
             />
 
