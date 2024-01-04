@@ -48,8 +48,8 @@ const Homepage = () => {
               className="inline cursor-pointer"
             />
             <img
-              src="./images/play-store.svg"
-              alt="Play Store"
+              src="./images/google-play-store.svg"
+              alt="Google Play Store"
               className="inline cursor-pointer"
             />
           </div>
