@@ -1,4 +1,4 @@
-const MyComponent = () => {
+const Header = () => {
   return (
     <div className="p-4 flex justify-around absolute w-full">
       <h1 className="text-brandColor font-dmSans text-32 font-bold leading-32 tracking-wide text-left">
@@ -46,4 +46,4 @@ const MyComponent = () => {
   );
 };
 
-export default MyComponent;
+export default Header;

@@ -70,6 +70,9 @@ module.exports = {
         center: true,
         padding: "30px",
       },
+      spacing: {
+        90: "90px",
+      },
     },
   },
   plugins: [],
