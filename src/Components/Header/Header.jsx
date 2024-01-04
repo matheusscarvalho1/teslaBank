@@ -1,6 +1,6 @@
 const MyComponent = () => {
   return (
-    <div className="p-4 flex justify-around">
+    <div className="p-4 flex justify-around absolute w-full">
       <h1 className="text-brandColor font-dmSans text-32 font-bold leading-32 tracking-wide text-left">
         teslabank.
       </h1>
