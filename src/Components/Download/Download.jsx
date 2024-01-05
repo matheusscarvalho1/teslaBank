@@ -7,20 +7,19 @@ const Download = () => {
             Uma nova experiência em{" "}
             <span className="text-brandColor">serviços financeiros</span>.
           </h2>
-          <p className="font-inter font-500 text-24 leading-38.5 max-w-696">
+          <p className="font-inter font-500 text-24 leading-38">
             Nossa abordagem inovadora e personalizada oferece uma experiência
             única para atender às suas necessidades.
           </p>
-          <div class="flex gap-5 justify-start">
-            <div>
-              <button>
-                <img
-                  src="./images/apple-store-button.png"
-                  alt="Apple Store"
-                  className="w-200 h-60"
-                />
-              </button>
-            </div>
+          <div class="flex gap-5 justify-center">
+            <button>
+              <img
+                src="./images/apple-store-button.png"
+                alt="Apple Store"
+                className="w-200 h-60"
+              />
+            </button>
+
             <div>
               <button>
                 <img
@@ -32,11 +31,11 @@ const Download = () => {
             </div>
           </div>
           <div>
-            <div className="bg-brandColor rounded-80 p-4 w-384 h-378 flex justify-center item-center">
+            <div className="bg-brandColor rounded-85 p-4 w-384 h-378 flex justify-center item-center ">
               <img
                 src="./images/union.png"
                 alt="Union"
-                className="w-133 h-163"
+                className="w-133 h-163 inline"
               />
             </div>
           </div>

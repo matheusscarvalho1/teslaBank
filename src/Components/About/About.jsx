@@ -25,10 +25,10 @@ const About = () => {
               <img
                 src="./images/like.png"
                 alt="like"
-                className="relative top-80 right-11"
+                className="relative top-80 right-59"
               />
             </div>
-            <div className="flex flex-col">
+            <div className="flex flex-col ml-80">
               <div className="max-w-696">
                 <h2 className="font-dmSans text-56 font-500 leading-61 tracking--0.03 mb-5 ">
                   Abra sua conta{" "}

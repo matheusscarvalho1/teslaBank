@@ -5,6 +5,7 @@ import Advantages from "./Components/Advantages/Advantages";
 import Depoiments from "./Components/Depoiments/Depoiments";
 import Cards from "./Components/Cards/Cards";
 import Download from "./Components/Download/Download";
+import Blog from "./Components/Blog/Blog";
 
 import Footer from "./Components/Footer/Footer";
 
@@ -18,6 +19,7 @@ function App() {
       <Depoiments />
       <Cards />
       <Download />
+      <Blog />
       <Footer />
     </>
   );

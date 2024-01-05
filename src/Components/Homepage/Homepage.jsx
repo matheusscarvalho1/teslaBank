@@ -40,7 +40,12 @@ const Homepage = () => {
           </ul>
           <div className="flex gap-10 mt-20">
             <button className="bg-secondary pt-1 pb-1 pl-5 pr-5 rounded text-white">
-              Abrir uma conta →
+              Abrir uma conta
+              <img
+                src="./images/arrow-right-button.svg"
+                alt="flecha para direita"
+                className="inline"
+              />
             </button>
             <img
               src="./images/apple-store.svg"
