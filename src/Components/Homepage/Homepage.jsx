@@ -44,7 +44,7 @@ const Homepage = () => {
               <img
                 src="./images/arrow-right-button.svg"
                 alt="flecha para direita"
-                className="inline"
+                className="inline w-15 ml-2"
               />
             </button>
             <img
