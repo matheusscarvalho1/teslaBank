@@ -3,16 +3,18 @@ import Homepage from "./Components/Homepage/Homepage";
 import About from "./Components/About/About";
 import Advantages from "./Components/Advantages/Advantages";
 import Depoiments from "./Components/Depoiments/Depoiments";
+import Cards from "./Components/Cards/Cards";
 
 function App() {
   return (
-    <div>
+    <>
       <Header />
       <Homepage />
       <About />
       <Advantages />
       <Depoiments />
-    </div>
+      <Cards />
+    </>
   );
 }
 
