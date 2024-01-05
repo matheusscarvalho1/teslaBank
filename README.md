@@ -11,7 +11,7 @@ Projeto criado para servir de portfólio contando um pouco da minha história co
 
 ## Pré requisitos
 
-Você precisa ter instalado o [NodeJS](https://nodejs.org/) (Recomendado: versão 18) e o npm ou yarn.
+Você precisa ter instalado o [NodeJS](https://nodejs.org/) (Recomendado: versão 18)
 
 Também é necessário uma IDE, recomendo o [VSCode](https://code.visualstudio.com/)
 
