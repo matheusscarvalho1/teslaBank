@@ -1,7 +1,8 @@
 # Tesla Bank
 <div align="center">
   
-![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/e0c3ed28-11b9-4012-ba7d-b8bfce612dab)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/05327d20-6bd8-40e7-ac5b-75f2f3fc4841)
+
 
 
 
