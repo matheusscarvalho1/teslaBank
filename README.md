@@ -9,8 +9,8 @@
 ## Tecnologias
 
 
-- React versão 18.2.0
-- TailwindCSS versão 4.0.0
+- [ReactJs na versão 18.2.0](https://pt-br.legacy.reactjs.org/docs/getting-started.html)
+- [TailwindCSS versão 4.0.0](https://tailwindcss.com/docs/installation)
 
 ## Pré requisitos
 
