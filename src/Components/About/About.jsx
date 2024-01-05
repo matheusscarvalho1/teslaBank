@@ -6,16 +6,16 @@ const About = () => {
       <div className="justify-between item-center w-full h-screen">
         <div className="max-w-1440 ml-auto mr-auto pt-120 pb-160">
           <div className="flex justify-evenly">
-            <div className="mr-80">
+            <div className="mr-80p">
               <img
                 src="./images/app.png"
                 alt="Aplicativo teslabank"
-                className="absolute"
+                className="absolute w-380 h-800"
               />
               <img
                 src="./images/check-radio.png"
                 alt="Checkbox"
-                className="relative top-20 right-20"
+                className="relative top-70 right-70"
               />
               <img
                 src="./images/mouse.png"
@@ -25,7 +25,7 @@ const About = () => {
               <img
                 src="./images/like.png"
                 alt="like"
-                className="relative top-80 right-59"
+                className="relative top-80 right-40"
               />
             </div>
             <div className="flex flex-col ml-80">
