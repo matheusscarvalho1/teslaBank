@@ -7,7 +7,7 @@
 
 
 </div>
-Projeto criado para servir de portfólio contando um pouco da minha história como desenvolvedor, minhas Hard Skills, minhas Soft Skills como colega de trabalho, minhas experiência  utilizando as tecnologias citadas no projeto e contato caso queira entrar em contato comigo.
+O TeslaBank é um site empresarial desenvolvido para oferecer serviços bancários inovadores e centrados no cliente. O projeto foi construído utilizando as tecnologias React e Tailwind CSS, garantindo uma experiência de usuário moderna e responsiva (parte responsiva ainda em desenvolvimento)
 
 ## Pré requisitos
 
