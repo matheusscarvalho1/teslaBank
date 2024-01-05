@@ -4,6 +4,9 @@ import About from "./Components/About/About";
 import Advantages from "./Components/Advantages/Advantages";
 import Depoiments from "./Components/Depoiments/Depoiments";
 import Cards from "./Components/Cards/Cards";
+import Download from "./Components/Download/Download";
+
+import Footer from "./Components/Footer/Footer";
 
 function App() {
   return (
@@ -14,6 +17,8 @@ function App() {
       <Advantages />
       <Depoiments />
       <Cards />
+      <Download />
+      <Footer />
     </>
   );
 }

@@ -17,7 +17,7 @@ const Cards = () => {
             </p>
           </div>
           <img src="./images/cards-2.png" alt="cartões" className="m-auto" />
-          <div className="flex mt-10 gap-5">
+          <div className="flex justify-center mt-10 gap-5">
             <div>
               <button className="bg-brandColor pt-2 pb-2 pl-5 pr-5 rounded text-white border-2 font-inter text-20 font-500 leading-20">
                 Abrir conta
