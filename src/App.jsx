@@ -6,7 +6,7 @@ import Depoiments from "./Components/Depoiments/Depoiments";
 import Cards from "./Components/Cards/Cards";
 import Download from "./Components/Download/Download";
 import Blog from "./Components/Blog/Blog";
-
+import Help from "./Components/Help/Help";
 import Footer from "./Components/Footer/Footer";
 
 function App() {
@@ -20,6 +20,7 @@ function App() {
       <Cards />
       <Download />
       <Blog />
+      <Help />
       <Footer />
     </>
   );

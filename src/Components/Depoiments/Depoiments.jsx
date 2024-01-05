@@ -11,7 +11,7 @@ const Depoiments = () => {
             <span className="block ">TeslaBank fora das telinhas:</span>
             Veja o que estão falando sobre nós.
           </h1>
-          <div className="flex mt-20">
+          <div className="flex mt-40 gap-10">
             <PersonCard
               name="nikola tesla"
               depoiment="Estou realmente impressionado com a qualidade do serviço do TeslaBank. Desde que comecei a usá-lo, todas as minhas transações financeiras ficaram mais fáceis e ágeis."

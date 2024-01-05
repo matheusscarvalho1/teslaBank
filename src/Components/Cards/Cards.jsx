@@ -1,7 +1,7 @@
 const Cards = () => {
   return (
     <>
-      <div className="bg-primary flex-col mt-10 justify-center align-center flex w-full">
+      <div className="bg-primary flex-col mt-10 justify-center items-center flex w-full">
         <div className="max-w-1440 ml-auto mr-auto pt-120 pb-120 text-center">
           <div className="max-w-858">
             <span className="font-dmSans text-20 font-700 text-brandColor uppercase leading-24 -tracking--0.03 mb-5">

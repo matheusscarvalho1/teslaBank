@@ -1,6 +1,6 @@
 const Card = ({ img, alt, title, description, option }) => {
   return (
-    <div className="flex flex-col gap-5 rounded bg-red-100     p-5 max-w-483">
+    <div className="flex flex-col gap-5 rounded bg-red-100 p-5 max-w-483">
       <img src={img} alt={alt} className="w-35 h-35" />
       <h3 className="font-dmSans font-500 text-18 leading-32 tracking-0.252">
         {title}
