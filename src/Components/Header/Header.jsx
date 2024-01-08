@@ -1,11 +1,11 @@
 const Header = () => {
   return (
-    <div className="p-8 flex justify-around absolute w-full">
+    <div className="p-8 flex justify-around absolute w-full items-center mobile:justify-between mobile:hidden">
       <h1 className="text-brandColor font-dmSans text-32 font-bold leading-32 tracking-wide text-left">
         teslabank.
       </h1>
-      <nav>
-        <ul className="flex items-center space-x-2 gap-16">
+      <nav className="">
+        <ul className="flex items-center space-x-2 gap-16 ">
           <li className="font-inter text-16 font-medium leading-27 tracking-normal text-left cursor-pointer">
             Benefícios
           </li>
@@ -30,9 +30,9 @@ const Header = () => {
           </li>
         </ul>
       </nav>
-      <ul className="flex gap-10">
+      <ul className="flex gap-5 items-center ml-5">
         <li>
-          <button className="text-brandColor pt-1 pb-1 pl-0 pr-0">
+          <button className="text-brandColor pt-1 pb-1 pl-0 pr-0 ">
             Entrar
           </button>
         </li>

@@ -26,6 +26,8 @@ module.exports = {
         inter: ["Inter", "DM Sans", "Helvetica", "Arial", "sans-serif"],
       },
       fontSize: {
+        3: "0.1875rem",
+        4: "0.25rem",
         10: "0.625rem",
         14: "0.875rem",
         16: "1rem",
@@ -81,9 +83,9 @@ module.exports = {
       },
 
       screens: {
-        desktop: "64rem",
-        tablet: "48rem",
-        mobile: "22rem",
+        desktop: { max: "64rem" },
+        tablet: { max: "48rem" },
+        mobile: { max: "40rem" },
       },
       gridTemplateColumns: {
         12: "repeat(12, minmax(0, 1fr))",
