@@ -4,8 +4,8 @@ const Blog = () => {
   return (
     <>
       <div className="bg-primary flex-col mt-10 justify-center align-center flex w-full">
-        <div className="max-w-1440 ml-auto mr-auto pt-120 pb-120 text-center">
-          <div className="flex justify-between item-center">
+        <div className="max-w-1440 ml-auto mr-auto pt-120 pb-120 text-center mobile:p-5">
+          <div className="flex justify-between item-center ">
             <div>
               <h2 className="font-dmSans text-64 font-500 leading-71 tracking--0.03">
                 Blog
@@ -24,7 +24,7 @@ const Blog = () => {
               </button>
             </div>
           </div>
-          <div className="flex mt-40 gap-160">
+          <div className="flex mt-40 gap-160 mobile:flex-col mobile:p-40">
             <Info
               img1="./images/blog-1.png"
               alt1="Business"

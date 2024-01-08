@@ -3,15 +3,17 @@ const Depoiments = () => {
   return (
     <>
       <div className="bg-primary mt-10 w-full">
-        <div className="max-w-1440 ml-auto mr-auto pt-120 pb-120">
-          <span className="font-dmSans text-20 font-700 text-brandColor uppercase leading-27">
+        <div className="max-w-1440 ml-auto mr-auto pt-120 pb-120 mobile:p-40">
+          <span className="font-dmSans text-20 font-700 text-brandColor uppercase leading-27 mobile:text-15">
             #depoimentos
           </span>
-          <h1 className="font-dmSans font-500 text-56 leading-61 tracking--1.68">
-            <span className="block ">TeslaBank fora das telinhas:</span>
+          <h1 className="font-dmSans font-500 text-56 leading-61 tracking--1.68 mobile:text-25">
+            <span className="block mobile:mb-2">
+              TeslaBank fora das telinhas:
+            </span>
             Veja o que estão falando sobre nós.
           </h1>
-          <div className="flex mt-40 gap-10">
+          <div className="flex mt-40 gap-10 mobile:flex-col">
             <PersonCard
               name="nikola tesla"
               depoiment="Estou realmente impressionado com a qualidade do serviço do TeslaBank. Desde que comecei a usá-lo, todas as minhas transações financeiras ficaram mais fáceis e ágeis."

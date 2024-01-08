@@ -4,13 +4,13 @@ const Help = () => {
     <>
       <div className="bg-terciary mt-10 w-full">
         <div className="max-w-1440 ml-auto mr-auto pt-120 pb-120 flex flex-col justify-center items-center">
-          <span className="font-dmSans text-20 font-700 text-brandColor uppercase leading-27">
+          <span className="font-dmSans text-20 font-700 text-brandColor uppercase leading-27 mobile:text-15">
             #ajuda
           </span>
-          <h2 className="font-dmSans font-500 text-56 leading-73 tracking--0.03 mb-5">
+          <h2 className="font-dmSans font-500 text-56 leading-73 tracking--0.03 mb-5 mobile:text-28">
             Ficou alguma dúvida?
           </h2>
-          <h4 className="font-inter font-400 text-24 leading-29 mb-20">
+          <h4 className="font-inter font-400 text-24 leading-29 mb-20 mobile:text-18 mobile:mb-10 mobile:justify-center mobile:text-center">
             Confira nossa lista de perguntas frequentes que recebemos
           </h4>
           <Item

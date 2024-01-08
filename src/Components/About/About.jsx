@@ -5,7 +5,7 @@ const About = () => {
     <>
       <div className="justify-between item-center w-full h-screen">
         <div className="max-w-1440 ml-auto mr-auto pt-120 pb-160">
-          <div className="flex justify-evenly">
+          <div className="flex justify-evenly ">
             <div className="mr-80p">
               <img
                 src="./images/app.png"

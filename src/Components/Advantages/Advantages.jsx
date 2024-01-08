@@ -4,7 +4,7 @@ const Advantages = () => {
   return (
     <>
       <div className="bg-terciary mt-10 w-full">
-        <div className="max-w-1440 ml-auto mr-auto pt-120 pb-120">
+        <div className="max-w-1440 ml-auto mr-auto pt-120 pb-120 mobile:p-40">
           <div className="flex flex-col max-w-483">
             <span className="font-dmSans text-20 font-700 text-brandColor uppercase leading-27">
               #inovação
@@ -14,7 +14,7 @@ const Advantages = () => {
               <span className="text-brandColor">TeslaBank</span>?
             </h2>
           </div>
-          <div className="grid gap-5 mt-10 w-full">
+          <div className="grid gap-5 mt-10 w-full mobile:flex mobile:flex-col">
             <Card
               img="./images/credit-card.png"
               alt="Cartão de crédito"
