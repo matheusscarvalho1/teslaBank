@@ -1,7 +1,7 @@
 const Card = ({ img, alt, title, description, option, customClass }) => {
   return (
     <div
-      className={`flex flex-col gap-5 rounded p-10 max-w-300 bg-red-100 ${customClass}`}
+      className={`flex flex-col gap-5 rounded p-10 max-w-300 bg-primary ${customClass}`}
     >
       <img src={img} alt={alt} className="w-35 h-35" />
       <h3 className="font-dmSans font-500 text-18 leading-32 tracking-0.252">

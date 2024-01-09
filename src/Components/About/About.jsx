@@ -3,8 +3,8 @@ import Box from "../Box/Box";
 const About = () => {
   return (
     <>
-      <div className="justify-between item-center w-full h-screen">
-        <div className="max-w-1440 ml-auto mr-auto pt-120 pb-160">
+      <div className="bg-primary mt-10 w-full">
+        <div className="max-w-1440 ml-auto mr-auto pt-120 pb-120 mobile:p-40">
           <div className="flex justify-evenly mb-100">
             <div className="mr-400 mobile:hidden">
               <img
