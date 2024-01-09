@@ -117,8 +117,97 @@ Após isso é só abrir [http://localhost:3000](http://localhost:3000) no seu na
 </div>
 
 ## Mobile
+<div align="center">
+<b><h2>Seção do site - Homepage</h2></b>
 
-# Em construção...
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/19917220-ed4b-4fc9-bb0d-acad058e7283)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/8881fecb-d72f-483f-925e-5288682d88bb)
+
+
+
+
+
+
+<b><h2>Seção do site - Sobre</h2></b>
+
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/10bcee8a-b198-4c1a-a7d3-17239aed438f)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/cfab43a4-7399-4ddb-820b-3ca143ffef64)
+
+
+
+
+<b><h2>Seção do site - Inovação</h2></b>
+
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/439d4334-becd-485c-97ba-809f589632dd)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/65658996-1f2c-4ee0-86a5-77a5ce20299e)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/a8437165-027a-4ead-a8e1-d5117d656be1)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/8e48abfd-e140-4677-9d4e-bc1616387ab8)
+
+
+
+
+
+
+
+
+<b><h2>Seção do site - Depoimentos</h2></b>
+
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/0ec0980e-3aa4-40cd-bd46-aa74decc7958)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/58a723f4-8fc0-4f78-9a6a-164f57df77a8)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/1168c08b-7474-49ad-9012-4e1488f5eadf)
+
+
+
+
+
+
+
+
+
+<b><h2>Seção do site - Cartões</h2></b>
+
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/7ebf6177-c90a-450e-a8ec-d84e7ca07e93)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/5c588a44-9b50-419e-899e-ab18864ddbae)
+
+
+
+
+
+
+
+
+
+<b><h2>Seção do site - Baixe agora o nosso App</h2></b>
+
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/96acea26-4a00-4468-892a-2cf00079434e)
+
+
+
+
+
+
+
+<b><h2>Seção do site - Blog</h2></b>
+
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/8e0b2d51-8b6d-4f77-b66b-6b6ff15c7bad)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/fc021ca0-8a2e-493a-905e-0c005b06a1f8)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/afa0dcc5-6283-42ce-b119-18308213fb55)
+
+
+
+
+
+
+
+
+
+
+<b><h2>Seção do site - Ajuda</h2></b>
+
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/e0263408-41e4-4785-b562-788b66bd8d91)
+![image](https://github.com/matheusscarvalho1/teslaBank/assets/73304785/6659a70c-c82d-4a5a-8381-d7e4c47cac11)
+
+
 
 <hr>
 
