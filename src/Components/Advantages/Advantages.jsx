@@ -3,10 +3,10 @@ import Card from "../Card/Card";
 const Advantages = () => {
   return (
     <>
-      <div className="bg-terciary mt-10 w-full">
+      <div className="bg-primary mt-10 w-full">
         <div className="max-w-1440 ml-auto mr-auto pt-120 pb-120 mobile:p-40">
           <div className="flex flex-col max-w-483">
-            <span className="font-dmSans text-20 font-700 text-brandColor uppercase leading-27">
+            <span className="font-dmSans text-20 font-700 uppercase leading-27 text-brandColor">
               #inovação
             </span>
             <h2 className="font-dmSans text-56 font-500 leading-61 tracking--0.03">

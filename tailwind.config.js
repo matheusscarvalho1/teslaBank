@@ -92,6 +92,7 @@ module.exports = {
       },
 
       screens: {
+        fullDesktop: { max: "120rem" },
         desktop: { max: "64rem" },
         tablet: { max: "48rem" },
         mobile: { max: "40rem" },

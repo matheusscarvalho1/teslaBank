@@ -5,8 +5,8 @@ const About = () => {
     <>
       <div className="justify-between item-center w-full h-screen">
         <div className="max-w-1440 ml-auto mr-auto pt-120 pb-160">
-          <div className="grid grid-cols-2 mobile:flex mobile:flex-col">
-            <div className="hidden">
+          <div className="flex justify-evenly mb-100">
+            <div className="mr-80p mobile:hidden">
               <img
                 src="./images/app.png"
                 alt="Aplicativo teslabank"
@@ -15,7 +15,7 @@ const About = () => {
               <img
                 src="./images/check-radio.png"
                 alt="Checkbox"
-                className="relative top-70 right-50"
+                className="relative top-70 right-70"
               />
               <img
                 src="./images/mouse.png"
@@ -40,7 +40,7 @@ const About = () => {
                   nada.
                 </p>
               </div>
-              <div className="mt-20">
+              <div className="m-20">
                 <Box
                   img=".\images\money.png"
                   alt="dinheiro"

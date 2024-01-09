@@ -8,7 +8,7 @@ const Homepage = () => {
               <h1 className="font-dmSans text-88 font-medium leading-97 tracking-wide text-left mobile:tracking-normal mobile:text-44 mobile:leading-41">
                 <span className="block">TeslaBank</span>seu banco digital.
               </h1>
-              <h3 className="font-inter text-24 font-medium leading-41 tracking-normal text-left text-darkScale10 mobile:text-16">
+              <h3 className="font-inter text-24 font-medium leading-41 tracking-normal text-left text-darkScale10 mobile:text-16 mobile:mt-10">
                 Com teslaBank, você pode realizar transferências bancárias com
                 zero taxa e pagar suas contas.
               </h3>
@@ -54,8 +54,8 @@ const Homepage = () => {
                   </p>
                 </li>
               </ul>
-              <div className="flex gap-10 mt-20 col-start-2 row-start-2">
-                <button className="bg-secondary pt-1 pb-1 pl-5 pr-5 rounded text-white w-fit">
+              <div className="flex gap-10 mt-20 col-start-2 row-start-2 max-w-fit">
+                <button className="bg-secondary pt-1 pb-1 pl-5 pr-5 rounded text-white max-w-fit">
                   Abrir uma conta
                   <img
                     src="./images/arrow-right-button.svg"

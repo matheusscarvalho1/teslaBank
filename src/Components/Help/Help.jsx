@@ -2,7 +2,7 @@ import Item from "../Item/Item";
 const Help = () => {
   return (
     <>
-      <div className="bg-terciary mt-10 w-full">
+      <div className="bg-primary mt-10 w-full">
         <div className="max-w-1440 ml-auto mr-auto pt-120 pb-120 flex flex-col justify-center items-center">
           <span className="font-dmSans text-20 font-700 text-brandColor uppercase leading-27 mobile:text-15">
             #ajuda
