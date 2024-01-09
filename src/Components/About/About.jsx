@@ -6,7 +6,7 @@ const About = () => {
       <div className="justify-between item-center w-full h-screen">
         <div className="max-w-1440 ml-auto mr-auto pt-120 pb-160">
           <div className="flex justify-evenly mb-100">
-            <div className="mr-80p mobile:hidden">
+            <div className="mr-400 mobile:hidden">
               <img
                 src="./images/app.png"
                 alt="Aplicativo teslabank"
