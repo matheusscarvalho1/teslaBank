@@ -30,7 +30,7 @@ const Header = () => {
           </li>
         </ul>
       </nav>
-      <ul className="flex gap-5 items-center ml-5 mobile: text-10">
+      <ul className="flex gap-5 items-center ml-5 mobile:text-15">
         <li>
           <button className="text-brandColor pt-1 pb-1 pl-0 pr-0">
             Entrar

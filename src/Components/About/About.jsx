@@ -5,8 +5,8 @@ const About = () => {
     <>
       <div className="justify-between item-center w-full h-screen">
         <div className="max-w-1440 ml-auto mr-auto pt-120 pb-160">
-          <div className="flex justify-evenly ">
-            <div className="mr-80p">
+          <div className="grid grid-cols-2 mobile:flex mobile:flex-col">
+            <div className="hidden">
               <img
                 src="./images/app.png"
                 alt="Aplicativo teslabank"
@@ -15,7 +15,7 @@ const About = () => {
               <img
                 src="./images/check-radio.png"
                 alt="Checkbox"
-                className="relative top-70 right-70"
+                className="relative top-70 right-50"
               />
               <img
                 src="./images/mouse.png"
@@ -28,7 +28,7 @@ const About = () => {
                 className="relative top-80 right-40"
               />
             </div>
-            <div className="flex flex-col ml-80">
+            <div className="flex flex-col">
               <div className="max-w-696">
                 <h2 className="font-dmSans text-56 font-500 leading-61 tracking--0.03 mb-5 ">
                   Abra sua conta{" "}
