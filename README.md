@@ -7,7 +7,7 @@
 
 
 </div>
-O TeslaBank é um site empresarial desenvolvido para oferecer serviços bancários inovadores e centrados no cliente. O projeto foi construído utilizando as tecnologias React e Tailwind CSS, garantindo uma experiência de usuário moderna e responsiva (parte responsiva ainda em desenvolvimento).
+O TeslaBank é um site empresarial desenvolvido para oferecer serviços bancários inovadores e centrados no cliente. O projeto foi construído utilizando as tecnologias React e Tailwind CSS, garantindo uma experiência de usuário moderna e responsiva.
 
 ## Pré requisitos
 
